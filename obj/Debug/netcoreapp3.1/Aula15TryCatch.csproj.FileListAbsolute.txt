@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\bin\Debug\netcoreapp3.1\Aula15TryCatch.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula15TryCatch\obj\Debug\netcoreapp3.1\Aula15TryCatch.genruntimeconfig.cache
